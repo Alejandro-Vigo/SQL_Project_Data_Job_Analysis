@@ -24,8 +24,19 @@ Key questions addressed:
 **Top-Paying Jobs:**  
 Filtered data analyst positions by salary and location (remote), revealing roles with salaries up to **$650,000**.
 
+Here’s a breakdown of the top data analyst roles:
+- Wide Salary Range: The top 10 paying data analyst positions range from $184,000 to $650,000, highlighting the significant earning potential in the field.
+- Diverse Employers: High-paying roles are offered by companies like SmartAsset, Meta, and AT&T, showing broad industry demand.
+- Variety of Roles: Job titles range from Data Analyst to Director of Analytics, reflecting diverse responsibilities and specializations.
+
 **Skills for High-Paying Jobs:**  
 Joined job postings with skills data to uncover the competencies employers value most for top salaries — **SQL, Python, Tableau** lead the list.
+
+Insights from the top-paying roles reveal which skills employers value most:
+- SQL: Leading skill with 8 out of 10 top-paying jobs requiring it.
+- Python: Close second with 7 mentions.
+- Tableau: In demand with 6 mentions.
+- Other Skills: R, Snowflake, Pandas, Excel appear with varying frequency.
 
 **Most In-Demand Skills:**  
 Analyzed frequency of skills in postings, highlighting **SQL, Excel, Python, Tableau, and Power BI** as essential.
@@ -36,6 +47,10 @@ Analyzed frequency of skills in postings, highlighting **SQL, Excel, Python, Tab
 | Python | 4,330 |
 | Tableau | 3,745 |
 | Power BI | 2,609 |
+
+The following skills were most frequently requested for data analyst roles:
+- SQL and Excel: Fundamental skills for data processing and spreadsheet management.
+- Python, Tableau, Power BI: Essential for programming, data visualization, and decision support.
 
 **Skills Linked to Higher Salaries:**  
 Average salaries by skill show that expertise in **big data tools, cloud platforms, machine learning, and development/deployment tools** commands higher pay.
@@ -51,6 +66,11 @@ Average salaries by skill show that expertise in **big data tools, cloud platfor
 | Pandas | 151,821 |
 | Elasticsearch | 145,000 |
 
+Some skills correlate with higher average salaries:
+- Big Data & ML: PySpark, Couchbase, DataRobot, Pandas, and NumPy command top salaries.
+- Software Development & Deployment: Tools like GitLab, Kubernetes, Airflow enhance pipeline efficiency and automation.
+- Cloud Computing: Elasticsearch, Databricks, and GCP show the growing importance of cloud-based analytics.
+
 **Optimal Skills to Learn:**  
 Combining demand and salary insights highlights **SQL, cloud tools (AWS, Azure, Snowflake), Python, and BI tools** as top priorities for career growth.
 | Skill | Demand Count | Avg Salary ($) |
@@ -65,6 +85,12 @@ Combining demand and salary insights highlights **SQL, cloud tools (AWS, Azure, 
 | Java | 17 | 106,906 |
 | SSIS | 12 | 106,683 |
 | Jira | 20 | 104,918 |
+
+By combining demand and salary data, these skills are both highly requested and well-compensated:
+- Programming Languages: Python and R remain popular.
+- Cloud Tools & Big Data: Snowflake, Azure, AWS, BigQuery are increasingly valuable.
+- Business Intelligence & Visualization: Tableau and Looker are essential for data storytelling.
+- Database Technologies: SQL, Oracle, SQL Server, NoSQL maintain high relevance.
 
 ## 💡 What I Learned
 - Advanced SQL query design, including joins, aggregations, and CTEs  
