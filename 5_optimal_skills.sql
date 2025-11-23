@@ -1,8 +1,5 @@
-/*
-Question: What are the most optimal skills to learn?
-- Identify skills in high demand and associated with high average salaries fro Data Analyst roles
-- Concentrates on remote positions
-*/
+# 5. Most Optimal Skills to Learn
+# This analysis merges demand and salary information to highlight skills that are both in high demand and command top salaries, guiding effective skill development.
 
 WITH skills_demand AS (
     SELECT 
