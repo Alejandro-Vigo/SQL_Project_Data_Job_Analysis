@@ -1,6 +1,5 @@
-/*
-Question: What are the most in-demand skills for data analysts?
-*/
+# 3. In-Demand Skills for Data Analysts
+# By analyzing the query results, I identified the skills most commonly sought by employers, emphasizing the areas of greatest demand.
 
 SELECT 
     skills,
